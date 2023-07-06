@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Author : Jebin
+
+echo "What's your name?"
+read NAME
+echo "Fuck off, $NAME"
